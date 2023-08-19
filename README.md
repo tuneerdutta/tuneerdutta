@@ -1,4 +1,4 @@
-[![MasterHead](https://www.hiddenbrains.com/blog/wp-content/uploads/2019/07/big-data-analytics-solutions-and-services.gif)]
+![MasterHead](https://www.hiddenbrains.com/blog/wp-content/uploads/2019/07/big-data-analytics-solutions-and-services.gif)
 
 <h1 align="center">Hi 👋, I'm Tuneer Dutta</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
