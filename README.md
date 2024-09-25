@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tuneerdgp4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YohNfi1ixCYIOiDVF_7aN-oqXytzLpd9/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Hd2RolDsSy-Zr-dbT4qrlLP3pcwGqWAS/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
