@@ -1,7 +1,7 @@
 ![MasterHead](https://www.hiddenbrains.com/blog/wp-content/uploads/2019/07/big-data-analytics-solutions-and-services.gif)
 
 <h1 align="center">Hi 👋, I'm Tuneer Dutta</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A Data Analyst and Business Intelligence Developer with over 2 years of experience in the IT industry, specializing in data cleaning, visualization, and data-driven decision-making. Currently employed at NRV DesignX, with a focus on designing, developing, and deploying interactive dashboards and real-time reporting solutions using SQL, Python, and Grafana to support cross-functional business objectives. Successfully completed a rigorous Data Analytics Certification Program, gaining hands-on expertise in Tableau, Power BI, EDA, Matplotlib, Seaborn, and statistical analysis. Proven ability to translate complex datasets into actionable insights that enhance business performance and operational efficiency. Possesses strong proficiency in relational databases, data modeling, and KPI tracking, with a consistent track record of delivering custom analytics solutions tailored to client needs. Experienced in creating automated reports and optimizing SQL queries to maintain high standards of data accuracy and integrity.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
