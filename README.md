@@ -33,19 +33,24 @@ I hold a **Data Analytics Certification** and have hands-on experience in EDA, r
 
 ---
 
-📈 **Tech Stack**
+### 🧰 Tech Stack
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="powerbi" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<img src="https://i.ibb.co/gLN0Nsf5/images-1.png" alt="Python" width="100" height="50" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/gLypg2qn/images-5.png" alt="Pandas" width="100" height="50" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/Fk7Mm52z/images-4.png" alt="NumPy" width="100" height="50" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/C3hvmzvj/images-6.png" alt="Matplotlib" width="100" height="50" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/9QvrKvT/images.jpg" alt="Seaborn" width="70" height="70" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/XrgXXY0H/images.png" alt="MySQL" width="100" height="50" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/99KxNsxK/images-2.png" alt="SQL Server" width="70" height="70" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/Hf6bZ8bz/powerbi-logo-1.jpg" alt="Power BI" width="60" height="60" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/RG0WHPyY/tableau-software.png" alt="Tableau" width="100" height="50" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/hRz4jwkq/Grafana-logo-svg.png" alt="Grafana" width="70" height="70" />&nbsp;&nbsp;
+<img src="https://i.ibb.co/LXfjhyHF/images-3.png" alt="Bold Reports" width="100" height="40" />
+
+
 </p>
+
 
 ---
 
