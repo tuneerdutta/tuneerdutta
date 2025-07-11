@@ -61,11 +61,6 @@ I hold a **Data Analytics Certification** and have hands-on experience in EDA, r
 
 ---
 
-📘 **Certifications**
-- Data Analytics Certification (Power BI, Tableau, SQL, Python, EDA)
-
----
-
 📂 **Portfolio Projects**
 - 📊 Dashboard Projects: Power BI / Tableau
 - 📈 SQL Analysis Projects
